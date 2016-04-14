@@ -8,7 +8,9 @@
 
 #include <iostream>
 using namespace std;
+class N{
 
+};
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	return 0;
